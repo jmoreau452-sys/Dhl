@@ -1,8 +1,8 @@
 <?php
 
 
-$token = "8642922604:AAFmcv8SIPXNwVHYSinpd4gfCQLCABGA5ng";
-$id = "1293548758";
+$token = "";
+$id = "";
 
  
 $ipp = "";
